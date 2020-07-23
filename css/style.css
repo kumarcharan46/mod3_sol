@@ -83,9 +83,9 @@ body {
     margin-bottom: 1em;
 }
 
-#chicken-box,
-#beef-box,
-#sushi-box {
+#chicken-tile,
+#beef-tile,
+#sushi-tile {
     width: 100%;
     padding: 20px;
     background-color: darkgrey;
